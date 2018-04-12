@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal"
+    android:background="@drawable/background_blue"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/layout_control_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:orientation="horizontal"
+        android:padding="@dimen/_8sdp">
+
+        <android.support.v7.widget.AppCompatImageButton
+            android:id="@+id/btn_close"
+            android:layout_width="@dimen/_40sdp"
+            android:layout_height="@dimen/_40sdp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:background="@drawable/button_close" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/tv_level"
+            android:layout_width="@dimen/_120sdp"
+            android:layout_height="@dimen/_32sdp"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@id/tv_timing"
+            android:layout_toStartOf="@id/tv_timing"
+            android:background="@drawable/background_level"
+            android:gravity="center"
+            android:text="@string/level_text"
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/tv_timing"
+            android:layout_width="@dimen/_120sdp"
+            android:layout_height="@dimen/_32sdp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/background_time"
+            android:gravity="center"
+            android:text="@string/time_text"
+            android:textColor="@android:color/holo_green_light"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/imv_question"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_150sdp"
+        android:layout_below="@id/layout_control_bar"
+        android:layout_gravity="center_horizontal"
+        android:padding="@dimen/_8sdp" />
+
+    <RelativeLayout
+        android:id="@+id/layout_answer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imv_question"
+        android:orientation="vertical">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/rv_first_answer"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/_50sdp"
+            android:layout_centerHorizontal="true"
+            android:paddingEnd="@dimen/_8sdp"
+            android:paddingLeft="@dimen/_8sdp"
+            android:paddingRight="@dimen/_8sdp"
+            android:paddingStart="@dimen/_8sdp">
+
+        </android.support.v7.widget.RecyclerView>
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/rv_second_answer"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/_50sdp"
+            android:layout_below="@id/rv_first_answer"
+            android:layout_centerHorizontal="true"
+            android:paddingEnd="@dimen/_8sdp"
+            android:paddingLeft="@dimen/_8sdp"
+            android:paddingRight="@dimen/_8sdp"
+            android:paddingStart="@dimen/_8sdp">
+
+        </android.support.v7.widget.RecyclerView>
+    </RelativeLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv_choice"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_100sdp"
+        android:layout_below="@id/layout_answer"
+        android:paddingEnd="@dimen/_8sdp"
+        android:paddingLeft="@dimen/_8sdp"
+        android:paddingRight="@dimen/_8sdp"
+        android:paddingStart="@dimen/_8sdp">
+
+    </android.support.v7.widget.RecyclerView>
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/tv_btn_clear"
+        android:layout_width="@dimen/_100sdp"
+        android:layout_height="@dimen/_40sdp"
+        android:layout_above="@id/buttons"
+        android:layout_centerInParent="true"
+        android:background="@drawable/button_orange_selector"
+        android:gravity="center"
+        android:text="@string/delete"
+        android:textColor="@android:color/white"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:id="@+id/buttons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:padding="@dimen/_8sdp"
+        android:weightSum="1">
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/tv_btn_suggest"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_8sdp"
+            android:layout_weight="0.5"
+            android:background="@drawable/button_orange_selector"
+            android:gravity="center"
+            android:text="@string/suggest"
+            android:textColor="@android:color/white"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/tv_btn_answer"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_8sdp"
+            android:layout_weight="0.5"
+            android:background="@drawable/button_disable"
+            android:gravity="center"
+            android:text="@string/answer"
+            android:textColor="@android:color/white"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+</RelativeLayout>

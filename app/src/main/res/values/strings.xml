@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Đuổi hình bắt chữ</string>
+    <string name="notice">Chú ý</string>
+    <string name="network_error">Vui lòng kiểm tra lại mạng</string>
+    <string name="network_negative_text">Vui lòng kiểm tra lại mạng</string>
+    <string name="ok">OK</string>
+    <string name="suggest">GỢI Ý</string>
+    <string name="delete">Xóa</string>
+    <string name="answer">TRẢ LỜI</string>
+    <string name="level">Cấp độ: </string>
+    <string name="back">TRỞ VỀ</string>
+    <string name="retry">THỬ LẠI</string>
+    <string name="next">TIẾP THEO</string>
+    <string name="time_prefix_1">00:0</string>
+    <string name="time_prefix_2">00:</string>
+    <string name="time_text">30:00</string>
+    <string name="level_text">Cấp độ: 1</string>
+    <string name="get_data">Đang lấy dữ liệu từ hệ thống&#8230;</string>
+    <string name="temp_string">Có lỗi xảy ra.</string>
+    <string name="done">Hoàn thành.</string>
+    <string name="error_lost_internet">Mất kết nối mạng.</string>
+    <string name="turn_on_permissions">Bật quyền cho ứng dụng.</string>
+    <string name="response_fail">Hệ thống trả về lỗi.</string>
+    <string name="request_failed">Yêu cầu gửi lên hệ thống lỗi.</string>
+
+</resources>

@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\19.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ad4e5f89a9ba9ec714c575a5fb29a6a1ca1753bf">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\23.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="81069f7a79d33d41128481d8d59e0eb004998bf2">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\8.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b07e5cc56b0463c9b5d924f5a1784e5a5ed9e7a9">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\17.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bb5796566420adfe644ead2e0596d394f4acfe2b">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\11.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f632bd8b6f3b9e02065657e67b26769e2ee514c4">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\processing-tools\runtime-deps\release\desugar_try_with_resources.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="786b13e9d4668484b418e1b356d7da6cb89fbd2f">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\26.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="680cdd902bac3f7af90f8902194d26806336b220">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\4.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="11fb4b86e44b2f1db0e2c5c6438f960919afe7fb">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\38.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="37aa9a42298c8e36e156131182b3b94fa8b9c4e7">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\33.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5aef7a2c1e71e219d4ae20e8335543d8c5fd51dc">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\42.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ddf0784db6d6e3deac1469c5c285e3638f6e1c2b">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\48.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b391d890012a6f3d9ca003c89f78b59a903b1a51">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\15.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f065d9b7783a5dcbf3f091415643125e94c2043e">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\45.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="99c4e223a39d75dc336d7f029c2d617720267176">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\3.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5465feddce91bdde3477620743dcff3ecf3b311b">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\56.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="29540c4fd32c5743f764d18c86d0c8309a3f087b">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\46.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b4f81c9b05989eada07e4102900f424455b5daeb">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\44.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d16402ebc9f2cdae80cb9265f851f7cb60a86c1d">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\13.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="451ec15a4e72afea99b8f807f6239a6cbd6b580e">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\53.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2cf792ebd55e79281254ade2c1f681ef9b2e1a51">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\27.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8ed3f30b41a52d74284b720c5a0df053d690e480">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\20.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1cac7811466c33b667d01ecf2e38815cc2f5c3c8">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\9.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="07c617e5eb9e07dc5fe4239778917fed7adef4d3">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\21.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bcf4e3dc2746e5939aba08caef369b182c0a11de">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\55.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fb787c18185d09295444bb1311f00ec9dddbd540">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\37.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b3425fda3d89a401555582541a265b6d334db525">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\22.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="958f7fb1a1834fa08e5ede82372fdf7e8300ad81">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\58.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3111bbaf1cff93e882196058895ecd1f89c45b97">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\36.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2fef1eb46568eac07e29c03138068b8f23684d35">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\24.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="acde2a86792a544a469f8b456b81e5ed505e9eb5">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\41.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="09532ff16479b0b7813a7c24a350c5d9eed16f8d">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\16.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="356a50d23e9495e074948404c538c3eb9dfebb2d">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\34.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7f133783c2585f537d4360f8a52555a7d87ea796">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\43.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d9836719d889e4cdad05243417043f58cf299c7b">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\32.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="82c85e81bffbb383838642ffcb20ca053ba3578c">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\47.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d39b3309ba629389ebc6b6a223d9fab0825eb01e">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\35.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1d7de643ffead0695044b7577f13a3d74efa174b">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\29.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9ba1ce4f772a3785b1674f3ab6b0989c16a51bf2">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\31.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="59dd5775bbc04ae596fbcd68b183bba6fe3d7acb">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\10.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4de42358a9251f959d700b54502260895be77b17">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\18.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c254d4bf34b008cbb02ae881639e06c91b2fa675">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\6.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cd5abf7204ceb9e00725efd0c475e66e58259595">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\57.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9577e4d746c6bad3ad1a3e82ec6af29fca0268cf">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\59.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8740ab86d3f5c374e57d656767d26560ad6b1aa0">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\7.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3ada37a1907661c545c5fa895e3385aa89f75403">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\25.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a5b4afc73550c3dfc3190f4d5e40ff28a55db21f">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\28.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e12eb404bca0631d9e7deaf16bfd5a6b0c701fe1">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\54.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fff4f0153a3896ca2402ea0395a848c1f7068fb3">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7c8a1ec7fa57ada4fb6048dcd3b3be7aad441ca0">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\14.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dbc9902043ee7a78ed23ed43a78676c69b16d974">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\12.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="317c261f8c4bbb4dbe8865cb1904fc6e5e36d707">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\5.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a6062af06bfeabe4f0703e8ff2c5a0377c8f83c9">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\desugar\release\49.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8a155584d9598ef5f41acec945f6ea8cf348c996">
+        <dex dex="D:\Gitlab\catch-word-game-app\app\build\intermediates\transforms\preDex\release\49.jar" />
+    </item>
+
+</items>

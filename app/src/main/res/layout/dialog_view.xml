@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="@dimen/_250sdp"
+    android:layout_height="@dimen/_300sdp"
+    android:background="@android:color/transparent">
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/background_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="@dimen/_16sdp"
+        android:layout_marginLeft="@dimen/_16sdp"
+        android:layout_marginRight="@dimen/_16sdp"
+        android:layout_marginStart="@dimen/_16sdp"
+        android:layout_marginTop="@dimen/_25sdp"
+        android:background="@drawable/background_congratulation" />
+
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/face_image"
+        android:layout_width="@dimen/_70sdp"
+        android:layout_height="@dimen/_70sdp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/face_congratulation" />
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/tv_left_button"
+        android:layout_width="@dimen/_90sdp"
+        android:layout_height="@dimen/_35sdp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="@dimen/_8sdp"
+        android:layout_marginLeft="@dimen/_24sdp"
+        android:layout_marginStart="@dimen/_24sdp"
+        android:background="@drawable/button_orange_selector"
+        android:gravity="center"
+        android:text="@string/suggest"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/tv_right_button"
+        android:layout_width="@dimen/_90sdp"
+        android:layout_height="@dimen/_35sdp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="@dimen/_8sdp"
+        android:layout_marginEnd="@dimen/_24sdp"
+        android:layout_marginRight="@dimen/_24sdp"
+        android:background="@drawable/button_orange_selector"
+        android:gravity="center"
+        android:text="@string/suggest"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/tv_center_button"
+        android:layout_width="@dimen/_90sdp"
+        android:layout_height="@dimen/_35sdp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="@dimen/_8sdp"
+        android:layout_marginBottom="@dimen/_8sdp"
+        android:background="@drawable/button_orange_selector"
+        android:gravity="center"
+        android:text="@string/suggest"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:visibility="gone" />
+
+</RelativeLayout>
